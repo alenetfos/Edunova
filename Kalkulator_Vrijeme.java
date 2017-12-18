@@ -1,4 +1,4 @@
-package Java_Tasks;
+package Edunova;
 
 import javax.swing.JOptionPane;
 
