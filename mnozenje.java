@@ -1,4 +1,4 @@
-package Edunova01;
+package Edunova;
 
 public class mnozenje {
 	
